@@ -12,23 +12,38 @@ He empezado importando la base de datos a SQL Server. El conjunto de datos sobre
 Las consultas mediante SQL realizadas para obtener los KPI's son:
 
 ✅ Ingresos totales
+
 ✅ Pedidos totales
+
 ✅ Media de pedidos
+
 ✅ Total pizza vendida
+
 ✅ Media de pizza por pedido
+
 
 Posteriormente, he realizado otras consultas interesantes para obtener más información importante para conseguir una buena toma de decisiones:
 
 ✅ Evolución diaria de pedidos
+
 ✅ Evolución mensual de pedidos
+
 ✅ % de ventas por categoría
+
 ✅ % de ventas por tamaño
+
 ✅ Top 5 ventas por ingresos
+
 ✅ Top 5 cantidad de pizza vendidas
+
 ✅ Top 5 pizzas pedidas
+
 ✅ Peores 5 pizzas vendidas
+
 ✅ Peores 5 cantidad de pizzas vendidas
+
 ✅ Peores 5 pizzas pedidas
+
 
 Una vez trabajada la base de datos, mediante Power BI he realizado el informe final con la visualización de todos los indicadores clave consiguiendo así un cuadro de mando atractivo cuya información es clara y sencilla de comprender.
 

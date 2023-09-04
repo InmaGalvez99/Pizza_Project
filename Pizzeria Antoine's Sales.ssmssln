@@ -3,12 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # SQL Server Management Studio Solution File, Format Version 19.00
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Consultas", "Consultas", "{C6DB1BD9-3706-4582-BDBB-C9F1CB0836E5}"
+	ProjectSection(SolutionItems) = preProject
+		Pizza_KPI.sql = Pizza_KPI.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4B5D4B73-C439-4F8A-AFFF-C7CB362FAB0E}.Default|Default.ActiveCfg = Default
+		{1759A827-1147-4DF8-B32F-AB1AFC779A98}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

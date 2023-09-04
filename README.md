@@ -15,7 +15,10 @@ El objetivo de este estudio es aportar información relevante y clara consiguien
 He empezado importando la base de datos a SQL Server. El conjunto de datos sobre los que he trabajo es de un total de 48.621 datos.
 
 
+
+
 Las consultas mediante SQL realizadas para obtener los KPI's son:
+
 
 ✅ Ingresos totales
 
@@ -28,7 +31,10 @@ Las consultas mediante SQL realizadas para obtener los KPI's son:
 ✅ Media de pizza por pedido
 
 
+
+
 Posteriormente, he realizado otras consultas interesantes para obtener más información importante para conseguir una buena toma de decisiones:
+
 
 ✅ Evolución diaria de pedidos
 
